@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lobster&display=swap");
+
+body {
+  font-family: "inter";
+  font-weight: 700;
+  font-size: 50px;
+  margin: 0;
+}
+.side {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  position: absolute;
+}
+#left-side {
+  background-color: purple;
+  z-index: 2;
+  color: white;
+  .fancy {
+    font-family: "lobster";
+    font-size: 1.2em;
+    color: orange;
+  }
+}
+#right-side {
+  background-color: orange;
+  color: black;
+  .fancy {
+    font-family: "Lobster";
+    font-size: 1.2em;
+    color: ghostwhite;
+  }
+}
+.title {
+  margin: 0 32vw;
+  width: 50vw;
+}
