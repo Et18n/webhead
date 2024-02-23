@@ -15,25 +15,24 @@
     place-items: center;
     overflow: hidden;
     position: absolute;
-    
   }
   #left-side {
-    background-color: white;
+    background-color: purple;
     z-index: 2;
-    color: black;
+    color: white;
     .fancy {
-      font-family: "comic sans";
+      font-family: "lobster";
       font-size: 1.2em;
-      color: black;
+      color: orange;
     }
   }
   #right-side {
-    background-color: red;
-    color: white;
+    background-color: orange;
+    color: black;
     .fancy {
-      font-family: "comic sans";
+      font-family: "lobster";
       font-size: 1.2em;
-      color: black;
+      color: white;
     }
   }
   .title {
