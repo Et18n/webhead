@@ -18,22 +18,22 @@
     
   }
   #left-side {
-    background-color: purple;
+    background-color: white;
     z-index: 2;
-    color: white;
+    color: black;
     .fancy {
-      font-family: "lobster";
+      font-family: "comic sans";
       font-size: 1.2em;
-      color: orange;
+      color: black;
     }
   }
   #right-side {
-    background-color: orange;
-    color: black;
+    background-color: red;
+    color: white;
     .fancy {
-      font-family: "Lobster";
+      font-family: "comic sans";
       font-size: 1.2em;
-      color: ghostwhite;
+      color: black;
     }
   }
   .title {
