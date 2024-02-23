@@ -17,9 +17,9 @@
     position: absolute;
   }
   #left-side {
-    background-color: blue;
+    background-color: white;
     z-index: 2;
-    color: white;
+    color: black;
     .fancy {
       font-family: "lobster";
       font-size: 1.2em;
