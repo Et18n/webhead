@@ -21,7 +21,7 @@
     z-index: 2;
     color: black;
     .fancy {
-      font-family: "lobster";
+      font-family: "comic sans";
       font-size: 1.2em;
       color: black;
     }
@@ -30,7 +30,7 @@
     background-color: red;
     color: white;
     .fancy {
-      font-family: "Lobster";
+      font-family: "comic sans";
       font-size: 1.2em;
       color: black;
     }
