@@ -17,22 +17,22 @@
     position: absolute;
   }
   #left-side {
-    background-color: purple;
+    background-color: blue;
     z-index: 2;
     color: white;
     .fancy {
       font-family: "lobster";
       font-size: 1.2em;
-      color: orange;
+      color: white;
     }
   }
   #right-side {
-    background-color: orange;
-    color: black;
+    background-color: red;
+    color: white;
     .fancy {
       font-family: "Lobster";
       font-size: 1.2em;
-      color: ghostwhite;
+      color: black;
     }
   }
   .title {
