@@ -15,6 +15,7 @@
     place-items: center;
     overflow: hidden;
     position: absolute;
+    
   }
   #left-side {
     background-color: purple;

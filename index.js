@@ -1,4 +1,4 @@
-const left=document.getElementById('left-side')
+const left=document.getElementById('left-side');
 
 const handleOnMove=e=>{
     const p=e.clientX/window.innerWidth*100;
